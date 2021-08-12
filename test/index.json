@@ -29,6 +29,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "openjdk:11"
+    "imageid": "bash"
   }
 }
